@@ -5,3 +5,6 @@
 
 # Compiled Source
 *.class
+
+# Settings
+*.prefs
